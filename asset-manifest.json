@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/afternoon-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/afternoon-react/static/js/main.7426d52e.chunk.js",
+    "main.js.map": "/afternoon-react/static/js/main.7426d52e.chunk.js.map",
+    "runtime-main.js": "/afternoon-react/static/js/runtime-main.5bbd83b3.js",
+    "runtime-main.js.map": "/afternoon-react/static/js/runtime-main.5bbd83b3.js.map",
+    "static/js/2.e390920d.chunk.js": "/afternoon-react/static/js/2.e390920d.chunk.js",
+    "static/js/2.e390920d.chunk.js.map": "/afternoon-react/static/js/2.e390920d.chunk.js.map",
+    "index.html": "/afternoon-react/index.html",
+    "precache-manifest.ce320059e366d141e2b124f681d23d09.js": "/afternoon-react/precache-manifest.ce320059e366d141e2b124f681d23d09.js",
+    "service-worker.js": "/afternoon-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/afternoon-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e390920d.chunk.js.LICENSE.txt": "/afternoon-react/static/js/2.e390920d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/afternoon-react/static/media/logo.5d5d9eef.svg",
+    "static/media/man.svg": "/afternoon-react/static/media/man.2369d24d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bbd83b3.js",
+    "static/js/2.e390920d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7426d52e.chunk.js"
+  ]
+}
