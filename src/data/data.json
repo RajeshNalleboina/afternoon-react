@@ -1,0 +1,24 @@
+{
+    "profile":[
+        {
+            "details":{
+                "name":"Surya",
+                "role":"MERN Developer",
+                "mobile":"9457904567",
+                "email":"surya.n@apssdc.in"
+            },
+            "co": "im a MERN Developer"
+        },
+        {
+            "details":{
+                "name":"SaiRam",
+                "role":"FrontEnd Developer",
+                "mobile":"9756745342",
+                "email":"sairam.d@apssdc.in"
+            },
+            "co": "im a Front End Developer"
+
+
+        }
+    ]
+}
